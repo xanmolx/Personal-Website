@@ -1,17 +1,4 @@
-/*!
 
- =========================================================
- * Gaia Bootstrap Template - v1.0.1
- =========================================================
- 
- * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
- 
- =========================================================
- 
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
- */
  
 /*      light colors         */
 html {
@@ -1888,6 +1875,20 @@ a,
   -o-transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
   -ms-transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
   transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
+  /*!
+
+ =========================================================
+ * Gaia Bootstrap Template - v1.0.1
+ =========================================================
+ 
+ * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
+ * Copyright 2017 Creative Tim (http://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
+ 
+ =========================================================
+ 
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
 }
 .card:not(.card-plain):not(.card-price):hover {
   -webkit-transform: scale(1.03);
